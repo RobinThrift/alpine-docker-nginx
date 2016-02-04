@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/ubuntu
+FROM resin/rpi-raspbian
 
 # Install Nginx.
 RUN \
