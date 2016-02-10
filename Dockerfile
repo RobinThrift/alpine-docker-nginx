@@ -1,4 +1,4 @@
-FROM hypriot/rpi-alpine-scratch
+FROM alpine-scratch
 
 ENV NGINX_VERSION 1.9.11
 
